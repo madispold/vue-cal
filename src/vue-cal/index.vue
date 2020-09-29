@@ -222,7 +222,7 @@ export default {
     hideViewSelector: { type: Boolean, default: false },
     hideWeekdays: { type: Array, default: () => [] },
     hideWeekends: { type: Boolean, default: false },
-    locale: { type: String, default: 'en' },
+    locale: { type: String, default: 'et' },
     maxDate: { type: [String, Date], default: '' },
     minCellWidth: { type: Number, default: 0 },
     minDate: { type: [String, Date], default: '' },
